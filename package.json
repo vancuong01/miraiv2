@@ -1,5 +1,5 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "Văn Cường",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/vancuong01/miraiv2.git"
     },
     "author": "D-Jukie",
     "license": "GPL-3.0",
